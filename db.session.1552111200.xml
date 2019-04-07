@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:4">
+	<calendar>
+		<public />
+	</calendar>
+	<combattracker>
+		<public />
+	</combattracker>
+	<currencies>
+		<public />
+		<id-00001>
+			<public />
+			<name type="string">PP</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<name type="string">GP</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<name type="string">EP</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<name type="string">SP</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<name type="string">CP</name>
+		</id-00005>
+	</currencies>
+	<effects>
+		<public />
+	</effects>
+	<image>
+	</image>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<npc>
+		<category name="Townsfolk" baseicon="0" decalicon="0">
+			<id-00001>
+				<abilities>
+					<charisma>
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</charisma>
+					<constitution>
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</strength>
+					<wisdom>
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">0</ac>
+				<actions>
+				</actions>
+				<hp type="number">0</hp>
+				<innatespells>
+				</innatespells>
+				<lairactions>
+				</lairactions>
+				<legendaryactions>
+				</legendaryactions>
+				<locked type="number">1</locked>
+				<name type="string">Robert Marlay</name>
+				<reactions>
+				</reactions>
+				<size type="string">Medium</size>
+				<spells>
+				</spells>
+				<text type="formattedtext">
+					<p>Robert and his two brothers came across to the Hinterlands in the initial surge of adventurers shortly after its discovery. They spent most of their lives working the family farm in the hills north of Oxis, part of the Holy Empire of Iriond. With their mother recently departed and the family farm forcefully taken from them by the local clergy,  who claimed Celora showed them the farm in a dream and instructed a new temple to the Sun be raised there, the brothers decided to seek a fresh start in a new land.</p>
+					<p>Both of Robert's brothers took ill on the voyage across the ocean. Jason died on the boat and Phillip passed on shortly after their arrival. With no friends or family to help him build a farm, Robert decided to make his way in the world with his next best talent: Hunting.</p>
+					<p></p>
+					<p>Robert is unmistakable as his hair is long and purple, the result of a curse laid on him by some mischievous sprites while out exploring the Hinterlands.</p>
+				</text>
+				<token type="token"></token>
+				<traits>
+				</traits>
+				<type type="string">Human</type>
+				<xp type="number">0</xp>
+			</id-00001>
+		</category>
+	</npc>
+	<options>
+		<public />
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+</root>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.3">
+	<window data="" class="library" pos="415,174,1115,724" />
+	<window data="" class="moduleselection" pos="415,184,1115,714" />
+	<window data="" class="tokenbag" pos="515,199,1015,699" />
+	<window data="background" class="masterindex" pos="540,224,990,674" />
+	<window data="battle" class="masterindex" pos="522,200,972,650" />
+	<window data="battle.id-00001@White Ape Lair" class="battle" pos="1116,347,1466,747" />
+	<window data="charsheet.id-00001" class="charsheet" pos="502,149,1027,749" />
+	<window data="charsheet.id-00001.powers.id-00005" class="power" pos="1351,95,1701,445" />
+	<window data="charsheet.id-00001.powers.id-00007" class="power" pos="590,274,940,624" />
+	<window data="charsheet.id-00002" class="charsheet" pos="910,151,1435,751" />
+	<window data="charsheet.id-00003" class="charsheet" pos="502,149,1027,749" />
+	<window data="class" class="masterindex" pos="540,224,990,674" />
+	<window data="combattracker" class="combattracker_host" pos="22,54,672,454" />
+	<window data="combattracker.list.id-00007" class="npc" pos="535,174,995,724" />
+	<window data="combattracker.list.id-00008" class="npc" pos="730,265,1190,815" />
+	<window data="effects" class="effectlist" pos="412,250,952,650" />
+	<window data="encounter" class="masterindex" pos="540,224,990,674" />
+	<window data="feat" class="masterindex" pos="735,315,1185,765" />
+	<window data="image" class="masterindex" pos="540,224,990,674" />
+	<window data="image.id-00001@White Ape Lair" class="imagewindow" pos="491,153,1039,745" />
+	<window data="image.id-00002@White Ape Lair" class="imagewindow" pos="439,-18,1190,808" />
+	<window data="item" class="masterindex" pos="213,234,663,684" />
+	<window data="notes" class="masterindex" pos="540,224,990,674" />
+	<window data="notes.id-00001" class="note" pos="590,274,940,624" />
+	<window data="npc" class="masterindex" pos="540,224,990,674" />
+	<window data="npc.id-00001" class="npc" pos="915,182,1375,732" />
+	<window data="partysheet" class="partysheet_host" pos="419,103,1219,603" />
+	<window data="quest" class="masterindex" pos="540,224,990,674" />
+	<window data="quest.id-00001@White Ape Lair" class="quest" pos="126,12,476,362" />
+	<window data="reference.backgrounddata.criminal@DD 5E Basic Rules - Player" class="reference_background" pos="590,274,940,624" />
+	<window data="reference.backgrounddata.soldier@DD 5E Basic Rules - Player" class="reference_background" pos="590,274,940,624" />
+	<window data="reference.classdata.monk.features.martialarts1@DD5E SRD Data" class="reference_classfeature" pos="590,349,940,649" />
+	<window data="reference.classdata.monk.features.unarmoreddefense1@DD5E SRD Data" class="reference_classfeature" pos="590,349,940,649" />
+	<window data="reference.classdata.monk@DD5E SRD Data" class="reference_class" pos="565,249,1263,793" />
+	<window data="reference.featdata.grappler@DD5E SRD Data" class="reference_feat" pos="785,365,1135,715" />
+	<window data="reference.imagedata.img_banner_jpg@DD 5E Basic Rules - Player" class="imagewindow" pos="461,150,1137,644" />
+	<window data="reference.imagedata.img_lordsalliance_jpg@DD 5E Basic Rules - Player" class="imagewindow" pos="605,167,925,730" />
+	<window data="reference.imagedata.img_orderofthegauntlet_jpg@DD 5E Basic Rules - Player" class="imagewindow" pos="605,187,925,711" />
+	<window data="reference.imagedata.img_zhentarim_jpg@DD 5E Basic Rules - Player" class="imagewindow" pos="605,167,925,730" />
+	<window data="reference.magicitemdata.adamantinebreastplatearmor@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.amuletofhealth@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.bagofbeans@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.bootsoflevitation@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.bowlofcommandingwaterelementals@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.chainmailarmor__1@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.chainmailarmorofpoisonresistance@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.longbow__3@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.quarterstaff__1@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.scrollofminorillusion@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.magicitemdata.scrollofsecretchest@DD5E SRD Magic Items" class="reference_magicitem" pos="590,274,940,624" />
+	<window data="reference.npcdata.aboleth@DD5E SRD Bestiary" class="npc" pos="535,174,995,724" />
+	<window data="reference.npcdata.adultbrassdragon@DD5E SRD Bestiary" class="npc" pos="535,174,995,724" />
+	<window data="reference.npcdata.adultbronzedragon@DD5E SRD Bestiary" class="npc" pos="730,265,1190,815" />
+	<window data="reference.npcdata.ape@DD5E SRD Bestiary" class="npc" pos="545,256,1005,806" />
+	<window data="treasureparcels" class="masterindex" pos="540,224,990,674" />
+	<window data="treasureparcels.id-00001.itemlist.id-00001@White Ape Lair" class="item" pos="1115,385,1465,735" />
+	<window data="treasureparcels.id-00001@White Ape Lair" class="treasureparcel" pos="1216,57,1716,407" />
+
+	<image data="image.id-00002@White Ape Lair" class="imagewindow" control="image" view="0,-292" zoom="2.27" />
+</windowstate>

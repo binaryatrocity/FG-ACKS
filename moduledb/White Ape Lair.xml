@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:4" integrity="4fe7702b21c625cb612da57f11f666ae24009d39">
+	<image>
+		<category name="White Ape Lair" baseicon="0" decalicon="0">
+			<id-00002>
+				<public />
+				<image type="image">
+					<bitmap>WhiteApe.PNG</bitmap>
+					<mask>maskedimages/1552176213.png</mask>
+					<drawing>drawings/drawing_1552177476.png</drawing>
+					<gridsize>19</gridsize>
+					<gridoffset>12,8</gridoffset>
+					<gridsnap>off</gridsnap>
+					<tokens>
+						<idcounter>18</idcounter>
+						<scalelock>7.35294</scalelock>
+						<token>
+							<prototype>tokens/A.png@DD5E SRD Bestiary</prototype>
+							<id>13</id>
+							<x>555</x>
+							<y>670</y>
+							<name>Ape 1</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD5E SRD Bestiary</prototype>
+							<id>14</id>
+							<x>541</x>
+							<y>714</y>
+							<name>Ape 2</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD5E SRD Bestiary</prototype>
+							<id>15</id>
+							<x>452</x>
+							<y>768</y>
+							<name>Ape 3</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD5E SRD Bestiary</prototype>
+							<id>18</id>
+							<x>61</x>
+							<y>370</y>
+							<name>Ape 6</name>
+							<unmodifiable />
+							<targets>11</targets>
+						</token>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>12</id>
+							<x>40</x>
+							<y>362</y>
+							<name>Uno #1</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>11</id>
+							<x>40</x>
+							<y>339</y>
+							<name>Orb #2</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD5E SRD Bestiary</prototype>
+							<id>17</id>
+							<x>83</x>
+							<y>355</y>
+							<name>Ape 5</name>
+							<unmodifiable />
+							<visibilitylocked>on</visibilitylocked>
+							<targets>12</targets>
+						</token>
+					</tokens>
+				</image>
+			</id-00002>
+		</category>
+	</image>
+</root>
