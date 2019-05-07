@@ -18,10 +18,11 @@
 	<window data="effects" class="effectlist" pos="412,250,952,650" />
 	<window data="encounter" class="masterindex" pos="540,224,990,674" />
 	<window data="feat" class="masterindex" pos="735,315,1185,765" />
-	<window data="image" class="masterindex" pos="540,224,990,674" />
+	<window data="image" class="masterindex" pos="74,12,524,462" />
 	<window data="image.id-00001" class="imagewindow" pos="0,0,1920,1040" />
 	<window data="image.id-00001@White Ape Lair" class="imagewindow" pos="491,153,1039,745" />
 	<window data="image.id-00002@White Ape Lair" class="imagewindow" pos="439,-18,1190,808" />
+	<window data="image.id-00005@Faerie Ruins" class="imagewindow" pos="12,-20,1932,1060" />
 	<window data="item" class="masterindex" pos="213,234,663,684" />
 	<window data="notes" class="masterindex" pos="540,224,990,674" />
 	<window data="notes.id-00001" class="note" pos="590,274,940,624" />
@@ -64,4 +65,5 @@
 
 	<image data="image.id-00001" class="imagewindow" control="image" view="0,0" zoom="0.133714" />
 	<image data="image.id-00002@White Ape Lair" class="imagewindow" control="image" view="0,-292" zoom="2.27" />
+	<image data="image.id-00005@Faerie Ruins" class="imagewindow" control="image" view="0,0" zoom="0.562162" />
 </windowstate>
