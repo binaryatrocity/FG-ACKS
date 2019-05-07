@@ -2367,6 +2367,12 @@
 	<feat>
 	</feat>
 	<image>
+		<id-00001>
+			<image type="image">
+				<bitmap>images/Palisma(140x130).png</bitmap>
+			</image>
+			<name type="string">Palisma(140x130)</name>
+		</id-00001>
 	</image>
 	<item>
 	</item>

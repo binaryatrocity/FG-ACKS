@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <modulestate version="3.3">
-	<module name="ACKS Tables">
-		<loaded />
-	</module>
 	<module name="DD 5E Basic Rules - Player">
 		<loaded />
 		<allow />

@@ -19,6 +19,7 @@
 	<window data="encounter" class="masterindex" pos="540,224,990,674" />
 	<window data="feat" class="masterindex" pos="735,315,1185,765" />
 	<window data="image" class="masterindex" pos="540,224,990,674" />
+	<window data="image.id-00001" class="imagewindow" pos="0,0,1920,1040" />
 	<window data="image.id-00001@White Ape Lair" class="imagewindow" pos="491,153,1039,745" />
 	<window data="image.id-00002@White Ape Lair" class="imagewindow" pos="439,-18,1190,808" />
 	<window data="item" class="masterindex" pos="213,234,663,684" />
@@ -61,5 +62,6 @@
 	<window data="treasureparcels.id-00001.itemlist.id-00001@White Ape Lair" class="item" pos="1115,385,1465,735" />
 	<window data="treasureparcels.id-00001@White Ape Lair" class="treasureparcel" pos="1216,57,1716,407" />
 
+	<image data="image.id-00001" class="imagewindow" control="image" view="0,0" zoom="0.133714" />
 	<image data="image.id-00002@White Ape Lair" class="imagewindow" control="image" view="0,-292" zoom="2.27" />
 </windowstate>
