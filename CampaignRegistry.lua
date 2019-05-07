@@ -1,9 +1,10 @@
 {
 	["OptREVL"] = "on",
 	["OptINIT"] = "off",
-	["OptRSHE"] = "on",
+	["setup"] = true,
+	["sidebar"] = "charsheet,note,image,table,story,quest,npc,battle,item,treasureparcel",
 	["OptCTSH"] = "off",
 	["OptRING"] = "on",
 	["OptBARC"] = "",
-	["sidebar"] = "charsheet,note,image,table,story,quest,npc,battle,item,treasureparcel",
+	["OptRSHE"] = "on",
 }
